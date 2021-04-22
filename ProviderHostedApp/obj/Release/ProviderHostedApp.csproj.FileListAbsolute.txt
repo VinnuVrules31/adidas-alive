@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\ProviderHostedApp\ProviderHostedApp\bin\Release\ProviderHostedApp.pdb
+C:\Users\user\source\repos\ProviderHostedApp\ProviderHostedApp\obj\Release\ProviderHostedApp.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\ProviderHostedApp\ProviderHostedApp\obj\Release\ProviderHostedApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ProviderHostedApp\ProviderHostedApp\obj\Release\ProviderHostedApp.dll
+C:\Users\user\source\repos\ProviderHostedApp\ProviderHostedApp\obj\Release\ProviderHostedApp.pdb

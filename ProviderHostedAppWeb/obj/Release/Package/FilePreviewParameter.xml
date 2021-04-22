@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Default Web Site/" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\user\\source\\repos\\ProviderHostedApp\\ProviderHostedAppWeb\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\user\\source\\repos\\ProviderHostedApp\\ProviderHostedAppWeb\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="ClientId" description="Value for ClientId here." value="878bf80f-e7ed-4394-b2f8-4a1cb7533872" tags="applicationSettings">
+    <parameterEntry kind="XmlFile" scope="web.config$" match="/configuration/appSettings/add[@key='ClientId']/@value" />
+  </parameter>
+  <parameter name="ClientSecret" description="Value for ClientSecret here." value="NJ6bZwGe01UAql7qoyTCLJPHrOdX4H9s3XcO17x62HQ" tags="applicationSettings">
+    <parameterEntry kind="XmlFile" scope="web.config$" match="/configuration/appSettings/add[@key='ClientSecret']/@value" />
+  </parameter>
+</parameters>

@@ -1,0 +1,1 @@
+C:\Users\user\source\repos\ProviderHostedApp\ProviderHostedApp\bin\Debug\app.publish\1.0.0.0\ProviderHostedApp.app

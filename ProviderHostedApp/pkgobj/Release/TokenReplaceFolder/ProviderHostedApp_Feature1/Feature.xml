@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="f1e78f6c-7a47-4eca-947c-114f6103f431" Scope="Web" Title="ProviderHostedApp Feature1" Version="1.0.0.0">
+  <ElementManifests>
+    <ElementManifest Location="Module1\Elements.xml" />
+    <ElementFile Location="Module1\Sample.txt" />
+  </ElementManifests>
+  <UpgradeActions>
+    <VersionRange>
+      <ApplyElementManifests>
+        <ElementManifest Location="Module1\Elements.xml" />
+      </ApplyElementManifests>
+    </VersionRange>
+  </UpgradeActions>
+</Feature>

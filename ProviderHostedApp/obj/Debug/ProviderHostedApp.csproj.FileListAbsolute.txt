@@ -1,0 +1,4 @@
+C:\Users\user\source\repos\ProviderHostedApp\ProviderHostedApp\bin\Debug\ProviderHostedApp.pdb
+C:\Users\user\source\repos\ProviderHostedApp\ProviderHostedApp\obj\Debug\ProviderHostedApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ProviderHostedApp\ProviderHostedApp\obj\Debug\ProviderHostedApp.dll
+C:\Users\user\source\repos\ProviderHostedApp\ProviderHostedApp\obj\Debug\ProviderHostedApp.pdb
